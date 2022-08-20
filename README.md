@@ -1,4 +1,4 @@
-## <h1 align=center>Desenvolvimento Web FronEnd 😎👍 </h1>
+## <h1 align=center>Desenvolvimento Web FrontEnd 😎👍 </h1>
 <div align=center>
 <img width='40%' src="https://c.tenor.com/WxhCJSlET50AAAAC/luff.gif" alt="alt text" title="image Title" width="150"/>
 </div>
