@@ -14,7 +14,7 @@
 <div style="list-style:none" align=center>
 <p><em>Projetos de mundo real, direcionados ao mercado; </em></p>
 <p><em>Minigames que botam em prática extensa utilização das features de JavaScript e React;</em></p>
-<p><em>Cada repositório possui um README detalhado, listando as features que serão encontradas em cada um deles; </em></p>
+<p><em>Cada repositório possui um README detalhado, listando as features utilizadas em cada um deles; </em></p>
 <p><em>Todo código públicado saiu da minha cachola. Não upo código de tutoriais. </em></p>
 </div>
 <div align=center>
