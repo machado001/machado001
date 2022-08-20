@@ -1,6 +1,6 @@
 ## <h1 align=center>Desenvolvimento Web FronEnd 😎👍 </h1>
 <div align=center>
-<img width='50%' src="https://c.tenor.com/WxhCJSlET50AAAAC/luff.gif" alt="alt text" title="image Title" width="150"/>
+<img width='40%' src="https://c.tenor.com/WxhCJSlET50AAAAC/luff.gif" alt="alt text" title="image Title" width="150"/>
 </div>
 
 <h2 align=center"> Navegando por entre meus repositórios, você encontrará: </h2>
