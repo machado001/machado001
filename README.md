@@ -18,7 +18,7 @@
 <p><em>Todo código públicado saiu da minha cachola. Não upo código de tutoriais. </em></p>
 </div>
 <div align=center>
-<img  height='180em' src="https://github-readme-stats.vercel.app/api?username=machado001&show_icons=true&theme=highcontrast"/>
-<img  height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=machado001&layout=compact&theme=highcontrast"/>
+<img  height='120em' src="https://github-readme-stats.vercel.app/api?username=machado001&show_icons=true&theme=highcontrast"/>
+<img  height='120em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=machado001&layout=compact&theme=highcontrast"/>
 </div>
 
