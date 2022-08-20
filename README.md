@@ -1,6 +1,6 @@
-## <h1 align=center>Desenvolvimento Web FrontEnd 😎👍 </h1>
+## <h1 align=center>Gabriel Machado - FrontEnd Jr. 😎👍 </h1>
 <div align=center>
-  <h3>Que surpresa! O que te traz aqui? 😁😁 </h3>
+  <h3>Salve! O que te traz aqui? 😁😁 </h3>
 <img width="38%" src="https://c.tenor.com/N5BbX6dbdloAAAAd/luffy-one-piece.gif" alt="alt text" title="image Title" width="150"/>
   <p><em>Sou apenas um novato <strong>buscando melhorar a cada dia.</strong></em>  </p>
 </div>
