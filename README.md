@@ -3,7 +3,7 @@
 <div align=center>
   <h3>Hey! O que te traz aqui? 😁😁 </h3>
 <img width="38%" src="https://c.tenor.com/N5BbX6dbdloAAAAd/luffy-one-piece.gif" alt="alt text" title="image Title" width="150"/>
-  <p><em>Sou apenas um novato <strong>buscando melhorar a cada dia.</strong></em></p>
+  <p><em>Buscando aprofundamento em <strong>Front</strong> antes de partir pro  <strong>Back</strong> =)</em></p>
   <div align=center>
   
    <a href="https://www.linkedin.com/in/machado001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
