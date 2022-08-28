@@ -2,8 +2,8 @@
 
 <div align=center>
   <h3>Are you all set? 😁😁 </h3>
-<img width="38%" src="https://c.tenor.com/N5BbX6dbdloAAAAd/luffy-one-piece.gif" alt="alt text" title="image Title" width="150"/>
-  <p><em>Atualmente, busco aperfeiçoamento em Javascript e React, com o único objetivo de <strong><em>me especializar</em></strong> nestas tecnologias. </p>
+
+  <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong> e <strong>React</strong>, com o único objetivo de <strong><em>me especializar</em></strong> nestas tecnologias.</em> </p>
   <div align=center>
   
    <a href="https://www.linkedin.com/in/machado001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
