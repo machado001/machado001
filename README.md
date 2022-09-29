@@ -1,9 +1,10 @@
-## <h1 align=center>Gabriel Machado - FrontEnd Jr. 😎👍 </h1>
+## <h1 align=center>Gabriel Machado - WebDev Jr. 😎👍 </h1>
 
 <div align=center>
   <h3>Are you all set? 😁😁 </h3>
 
   <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong> e <strong>React</strong>, com o único objetivo de <strong><em>me especializar</em></strong> nestas tecnologias.</em> </p>
+  <p><em>Comecei a aprender <strong>NodeJS</strong> recentemente;</em> </p>
   <div align=center>
   
    <a href="https://www.linkedin.com/in/machado001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
