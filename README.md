@@ -1,7 +1,6 @@
 ## <h1 align=center>Gabriel Machado - Front-End Jr 😎👍 </h1>
 
 <div align=center>
-  <h3>Are you all set? 😁😁 </h3>
 
   <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong> e <strong>React</strong>, com o único objetivo de <strong><em>me especializar</em></strong> nestas tecnologias.</em> </p>
   <div align=center>
