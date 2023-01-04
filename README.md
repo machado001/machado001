@@ -2,7 +2,8 @@
 
 <div align=center>
 
-  <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong> e <strong>React</strong>, com o único objetivo de <strong><em>me especializar</em></strong> nestas tecnologias.</em> </p>
+  <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong>, <strong>React</strong>, <strong>Typescript</strong>, <strong>Node</strong> &&  <strong>Firebase</strong>, visando <strong><em> uma melhoria constante</em></strong> no entendimento destas ferramentas</em>, tendo como aliados cursos, documentações e principalmente o Google! </p>
+  
   <div align=center>
   
    <a href="https://www.linkedin.com/in/machado001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
