@@ -2,7 +2,7 @@
 
 <div align=center>
 
-  <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong>, <strong>React</strong>, <strong>Typescript</strong>, <strong>Node</strong> &&  <strong>Firebase</strong>, visando <strong><em> uma melhoria constante</em></strong> no entendimento destas ferramentas</em>, tendo como aliados cursos, documentações e principalmente o Google! </p>
+  <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong>, <strong>ReactJS</strong>, <strong>Typescript</strong> && <strong>NodeJS</strong>, visando <strong><em> uma melhoria constante</em></strong> no entendimento destas ferramentas</em>, tendo como aliados cursos, documentações e principalmente o Google! </p>
   
   <div align=center>
   
