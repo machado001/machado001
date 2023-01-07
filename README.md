@@ -2,7 +2,8 @@
 
 <div align=center>
 
-  <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong>, <strong>ReactJS</strong>, <strong>Typescript</strong> && <strong>NodeJS</strong>, visando <strong><em> uma melhoria constante</em></strong> no entendimento destas ferramentas</em>, tendo como aliados cursos, documentações e principalmente o Google! </p>
+  <p><em>Atualmente, busco aperfeiçoamento em <strong>Javascript</strong>, <strong>ReactJS</strong>,&& <strong>Typescript</strong>, visando <strong><em> uma melhoria constante</em></strong> no entendimento destas ferramentas</em>, tendo como aliados cursos, documentações e principalmente o Google!</p>
+  <p>role pra baixo para ver meus projetos pinnados!</p>
   
   <div align=center>
   
@@ -24,5 +25,6 @@
 <div align=center>
    <img width='33%' src="https://github-readme-stats.vercel.app/api?username=machado001&show_icons=true&theme=highcontrast"/>
    <img width='33%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=machado001&layout=compact&theme=highcontrast"/>
+   <img width='66%' height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=machado001&theme=highcontrast">
 </div>
  
