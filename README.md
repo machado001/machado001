@@ -24,6 +24,5 @@
 <div align=center>
    <img width='33%' src="https://github-readme-stats.vercel.app/api?username=machado001&show_icons=true&theme=highcontrast"/>
    <img width='33%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=machado001&layout=compact&theme=highcontrast"/>
-   <img width='66%' height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=machado001&theme=highcontrast">         
 </div>
  
