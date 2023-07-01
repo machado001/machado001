@@ -6,5 +6,5 @@
 
 - pt-BR -> EN connection.
 - Computer Science student.
-- You can reach me at my email [machadowg@gmail.com](mailto:machadowg@gmail.com) or at [Linkedin.](https://www.linkedin.com/in/machado001/)
+- You can reach me at [my email](mailto:machadowg@gmail.com) or at [Linkedin.](https://www.linkedin.com/in/machado001/)
 
