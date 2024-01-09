@@ -1,4 +1,4 @@
-- Intern at @SiDi.
+- Intern @SiDi.
 - Currently contributing with Samsung Knox Ecosystem.
 - pt-BR -> EN connection.
 - Computer Science Student.
