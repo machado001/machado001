@@ -1,4 +1,5 @@
-- Intern @SiDi.
+- Android Developer @SiDi.
+- Java, Kotlin.
 - Currently contributing with Samsung Knox Ecosystem.
 - pt-BR -> EN connection.
 - Computer Science Student.
