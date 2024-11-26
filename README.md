@@ -2,5 +2,5 @@
 - Currently contributing with Samsung Knox Ecosystem;
 - Java, Kotlin;
 - Portuguese, English;
-- Computer Science Student;
+- Eternal computer science Student;
 - You can reach me at [my email](mailto:machadowg@gmail.com) or [Linkedin.](https://www.linkedin.com/in/machado001/)
