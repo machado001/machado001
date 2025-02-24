@@ -1,6 +1,5 @@
 - Android Developer at SiDi;
-- Currently contributing with Samsung Knox Ecosystem;
-- Java, Kotlin;
+- Java, Kotlin, Compose, XML;
 - Portuguese, English;
 - Eternal computer science Student;
 - You can reach me at [my email](mailto:machadowg@gmail.com) or [Linkedin.](https://www.linkedin.com/in/machado001/)
