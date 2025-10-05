@@ -1,5 +1,6 @@
-- Android Developer at SiDi;
-- Java, Kotlin, Compose, XML;
+- Software Engineer at SiDi;
+- Real world experience with android and backend systems;
+- Java, Kotlin, Compose, XML, Spring boot;
 - Portuguese, English;
 - Eternal computer science Student;
 - You can reach me at [my email](mailto:machadowg@gmail.com) or [Linkedin.](https://www.linkedin.com/in/machado001/)
